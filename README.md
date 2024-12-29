@@ -1,12 +1,12 @@
 # 🎥 Sentiment Analysis of YouTube Comments 📊
 
 ## Overview
-This project focuses on **sentiment analysis** of YouTube comments, classifying them into three categories:
+This data engineering course project focuses on **sentiment analysis** of YouTube comments, classifying them into three categories:
 - **Negative** (0)
 - **Neutral** (1)
 - **Positive** (2)
 
-Using a dataset of pre-labeled comments from five diverse YouTube videos, we built a scalable **data engineering pipeline** to preprocess, analyze, and classify sentiments. Our findings provide meaningful insights into user engagement and comment behavior while demonstrating the utility of combining **PySpark** with **machine learning** techniques.
+Using a dataset of pre-labelled comments from five diverse YouTube videos, we built a scalable **data engineering pipeline** to preprocess, analyze, and classify sentiments. Our findings provide meaningful insights into user engagement and comment behaviour while demonstrating the utility of combining **PySpark** with **machine learning** techniques.
 
 ---
 
@@ -71,4 +71,4 @@ This project showcases the power of scalable data engineering and machine learni
 ## How to Use 💻
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/sentiment-analysis-youtube.git
+   git clone https://github.com/YT-Sentiment-Analysis-for-Big-Data.git
